@@ -1,0 +1,20 @@
+body {
+  background-image: url(https://wallpapers.com/images/hd/math-background-jbcyizvw0ckuvcro.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div{
+  padding: 100px 100px;
+  font-size: 50px;
+  color: rgb(1, 252, 51);
+}
+.increment{
+  color: rgb(185, 87, 6);
+  size: 50%;
+  font-size: large;
+}
+.decrement{
+  color: rgb(185, 87, 6);
+  size: 50%;
+}
+
